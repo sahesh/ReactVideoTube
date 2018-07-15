@@ -1,25 +1,13 @@
-# ReduxSimpleStarter
+# ReactVideoTube
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+This is my first React JS app which is developed following a tutorial of Stephen Grider.
 
-### Getting Started
-
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
+#### Getting Started
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
+> git clone https://github.com/sahesh/ReactVideoTube.git
+> cd ReactVideoTube
 > npm install
 > npm start
 ```
